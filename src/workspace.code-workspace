@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\ESP32 BUILTIN LED"
+		},
+		{
+			"name": "LCD_LIQUID_CRYSTAL",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
